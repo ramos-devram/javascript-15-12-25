@@ -6,7 +6,7 @@ let person = {
     name: "Andres",
     age: 32,
     note: 1,
-}
+} // lista desordenada
 
 console.log(person)
 console.log(person.name)
